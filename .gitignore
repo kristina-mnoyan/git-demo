@@ -1,0 +1,9 @@
+*.log
+*.db
+bin/
+target/
+
+.idea/*
+/build
+/.pnp
+.env.local
